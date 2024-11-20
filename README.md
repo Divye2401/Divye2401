@@ -1,16 +1,14 @@
-# Hey There👋, I'm Divye Pugaloke
-## MACS student @ Concordia University   Java | Python | JavaScript | Software Development | Software Engineering 
-
+# Hey There👋, I'm Divye Pugaloke  
+## MACS student @ Concordia University  
+Java | Python | JavaScript | Software Development | Software Engineering  
 
 ## 💫About Me :
 - 🔭 I’m currently learning Full Stack Development.  
-- 🤔 I’m looking to collaborate on projects related to Software Development and Software Engineering
-- 📫 How to reach me: divye.canada@gmail.com
-s
+- 🤔 I’m looking to collaborate on projects related to Software Development and Software Engineering  
+- 📫 How to reach me: divye.canada@gmail.com  
 
-## 🌐Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhaya-kirtivasan-0b1b69188/) 
-
+## 🌐Socials  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divye2401)  
 
 ## 💻Tech Stack   
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
@@ -27,12 +25,7 @@ s
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&style=for-the-badge&labelColor=FF9900) 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)  
 
-
-
 ## 📊GitHub Stats :
-![divye2401's Stats](https://github-readme-stats.vercel.app/api?username=divye2401&theme=tokyonight&show_icons=true&hide_border=true&count_private=true))
-![divye2401's Streak](https://github-readme-streak-stats.herokuapp.com/?user=divye2401&theme=tokyonight&hide_border=true)
-![divye2401's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=divye2401&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
-
-
-  
+![divye2401's Stats](https://github-readme-stats.vercel.app/api?username=divye2401&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)  
+![divye2401's Streak](https://github-readme-streak-stats.herokuapp.com/?user=divye2401&theme=tokyonight&hide_border=true)  
+![divye2401's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=divye2401&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)  
