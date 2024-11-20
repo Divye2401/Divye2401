@@ -30,7 +30,7 @@ s
 
 
 ## 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=divye2401&theme=dark&hide_border=true&include_all_commits=false&count_private=true)  
+![divye2401's Stats](https://github-readme-stats.vercel.app/api?username=divye2401&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=divye2401&theme=dark&hide_border=true)  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=divye2401&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
