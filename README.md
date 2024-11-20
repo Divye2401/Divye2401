@@ -30,8 +30,9 @@ s
 
 
 ## 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=abhayak11&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=abhayak11&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=abhayak11&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=divye2401&theme=dark&hide_border=true&include_all_commits=false&count_private=true)  
+![](https://github-readme-streak-stats.herokuapp.com/?user=divye2401&theme=dark&hide_border=true)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=divye2401&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+
 
   
