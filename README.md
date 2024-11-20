@@ -1,5 +1,5 @@
 # Hey There👋, I'm Divye Pugaloke
-## MACS student @ Concordia University Java | Python | JavaScript | Software Development | Software Engineering 
+## MACS student @ Concordia University   Java | Python | JavaScript | Software Development | Software Engineering 
 
 
 ## 💫About Me :
